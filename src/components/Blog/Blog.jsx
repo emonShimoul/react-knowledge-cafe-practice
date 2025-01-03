@@ -13,7 +13,7 @@ const Blog = ({ blog }) => {
 
   return (
     <div>
-      <img src={cover} alt={`Cover pic of ${title}`} />
+      <img className="w-full" src={cover} alt={`Cover pic of ${title}`} />
       <div className="flex justify-between">
         <div className="flex">
           <img className="w-12 h-12 rounded-full" src={author_img} alt="" />
