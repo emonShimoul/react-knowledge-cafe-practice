@@ -26,7 +26,7 @@ const Blog = ({ blog, handleAddToBookMark }) => {
         <div className="flex justify-center items-center">
           <span>{reading_time} read</span>
           <button
-            onClick={() => handleAddToBookMark()}
+            onClick={() => handleAddToBookMark(blog)}
             className="ml-2 text-red-600 text-2xl"
           >
             <FaBookmark />
