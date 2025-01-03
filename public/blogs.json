@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "cover": "https://images.unsplash.com/photo-1601933472769-d1ad4dc8aa81",
+    "cover": "https://i.ibb.co.com/bgB9WPQ/img-03.png",
     "title": "The Journey Beyond Stars",
     "author": "Alice Harper",
-    "author_img": "https://images.unsplash.com/photo-1603415526960-83e24d1b33b7",
+    "author_img": "https://images.unsplash.com/photo-1504593811423-6dd665756598",
     "posted_date": "2025-01-01",
     "reading_time": "5 min",
     "hashtags": ["#space", "#adventure", "#scifi"]
   },
   {
     "id": 2,
-    "cover": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "cover": "https://i.ibb.co.com/fxbxdh4/img-05.png",
     "title": "Gardening Secrets for Beginners",
     "author": "John Doe",
     "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "cover": "https://i.ibb.co.com/bgB9WPQ/img-03.png",
     "title": "Mastering JavaScript in 30 Days",
     "author": "Emily Davis",
     "author_img": "https://images.unsplash.com/photo-1532074205216-d7ca70797c2f",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover": "https://images.unsplash.com/photo-1517816743773-6e0fd518b4a6",
+    "cover": "https://i.ibb.co.com/fxbxdh4/img-05.png",
     "title": "10 Best Travel Destinations for 2025",
     "author": "Liam Carter",
     "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "cover": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+    "cover": "https://i.ibb.co.com/bgB9WPQ/img-03.png",
     "title": "Healthy Recipes for Busy People",
     "author": "Sophia Green",
     "author_img": "https://images.unsplash.com/photo-1504593811423-6dd665756598",
