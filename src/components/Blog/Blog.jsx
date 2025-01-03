@@ -47,6 +47,7 @@ const Blog = ({ blog, handleAddToBookMark }) => {
 
 Blog.propTypes = {
   blog: PropTypes.object.isRequired,
+  handleAddToBookMark: PropTypes.func.isRequired,
 };
 
 export default Blog;
